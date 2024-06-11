@@ -5,4 +5,4 @@ Git tracks changes of files.
 Git add remote origin.
 Creating a new branch is quick AND simple.
 Git stash test.
-test.
+Git add sourcetree.
